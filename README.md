@@ -1,2 +1,2 @@
 # blog_comment
-this is blog's comment. http://blog.chegio.tech
+this is blog's comment. https://blog.chegio.tech
